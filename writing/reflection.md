@@ -32,6 +32,15 @@ TODO: Provide an output from running the final version of your program
 
 TODO: Provide an output from running the final version of your program
 
+## Program Understanding
+
+TODO: Explain similarities and differences between selection sorting from
+class and one of the sorting algorithms in your CLI listsorting.
+
+TODO: Explain the return values of the functions implemented in class and
+compare them to the return values in your CLI's sorting algorithms.
+Explain any discrepancies.
+
 ## Experiment Design
 
 TODO: Explain the setup for your experiment that you ran to characterize the
@@ -48,15 +57,15 @@ due the fact that there may be some algorithms that are inefficient!
 
 TODO: Document and justify your choice for all of the experiment parameters.
 
-## Research Questions
+### Research Questions
 
-TODO: Clearly state at least three research questions that you want to ask and
-answer by using the `listsorting` program. You should provide the research
-questions in a list that where each list element starts with "RQ" and ends with
-a question mark. Make sure that your research questions cover different aspects
-of the sorting algorithms provided by the `listsorting` program.
+TODO: Clearly state at least three research questions that can be answered by
+using the `listsorting` program. Make sure that your research questions cover
+different aspects of the sorting algorithms provided by the `listsorting` program.
 
-TODO: You should provide the three research questions in a bulleted list.
+TODO: Write the RQs in a bulleted list.
+
+- RQ1:
 
 ## Performance Analysis
 
@@ -94,6 +103,10 @@ to suggest the likely worst-case time complexity of the studied algorithms.
 ## Professional Development
 
 ### What is challenging about designing an experiment to evaluate a sorting algorithm's performance?
+
+TODO: Provide a one-paragraph response that answers this question in your own words.
+
+### What is challenging about big-O notation?
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
 
