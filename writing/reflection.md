@@ -12,26 +12,23 @@ publication on your professional web site.
 
 ### Report at least five examples of program output to demonstrate that your `listsorting` program works correctly
 
-TODO: Document and justify your choice for all of the experiment parameters
-TODO: Make sure that you provide one output for each of the sorting algorithms
-
-#### First output from running the `listsorting` program
+#### First output from running the `listsorting` program on bubble_sort
 
 TODO: Provide an output from running the final version of your program
 
-#### Second output from running the `listsorting` program
+#### Second output from running the `listsorting` program insertion_sort
 
 TODO: Provide an output from running the final version of your program
 
-#### Third output from running the `listsorting` program
+#### Third output from running the `listsorting` program merge_sort
 
 TODO: Provide an output from running the final version of your program
 
-#### Fourth output from running the `listsorting` program
+#### Fourth output from running the `listsorting` program quick_sort
 
 TODO: Provide an output from running the final version of your program
 
-#### Fifth output from running the `listsorting` program
+#### Fifth output from running the `listsorting` program tim_sort
 
 TODO: Provide an output from running the final version of your program
 
@@ -49,16 +46,15 @@ For instance, you should consider the following parameters for your experiment:
 TODO: You may need to design a custom experiment for certain sorting algorithms
 due the fact that there may be some algorithms that are inefficient!
 
-TODO: You must justify every part of your experiment design and then furnish
-output examples to demonstrate that your program generates correct data!
+TODO: Document and justify your choice for all of the experiment parameters.
 
 ## Research Questions
 
 TODO: Clearly state at least three research questions that you want to ask and
 answer by using the `listsorting` program. You should provide the research
 questions in a list that where each list element starts with "RQ" and ends with
-a question mark. Make sure that the totality of your research questions cover
-all of the sorting algorithms provided by the `listsorting` program.
+a question mark. Make sure that your research questions cover different aspects
+of the sorting algorithms provided by the `listsorting` program.
 
 TODO: You should provide the three research questions in a bulleted list.
 
@@ -76,6 +72,7 @@ to support your response. You should make sure that you answer each of the at
 least three research questions that you posed in a previous section.
 
 TODO: Make sure that your responses explain WHY certain configurations are faster!
+TODO: This means, mentioning specific python constructs.
 TODO: It is not sufficient to ONLY explain WHICH configuration is faster!
 
 TODO: Your analysis of the results should specifically mention the doubling
@@ -104,6 +101,6 @@ TODO: Provide a one-paragraph response that answers this question in your own wo
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
 
-### How do the empirical results suggest that you don't yet know the entire story about the performance of sorting algorithms?
+### Do the empirical results suggest that you don't yet know the entire story about the performance of sorting algorithms?
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
