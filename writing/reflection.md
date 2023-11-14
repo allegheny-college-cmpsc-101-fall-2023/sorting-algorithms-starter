@@ -12,23 +12,23 @@ publication on your professional web site.
 
 ### Report at least five examples of program output to demonstrate that your `listsorting` program works correctly
 
-#### First output from running the `listsorting` program on bubble_sort
+#### First output from running the `listsorting` program with bubble_sort
 
 TODO: Provide an output from running the final version of your program
 
-#### Second output from running the `listsorting` program insertion_sort
+#### Second output from running the `listsorting` program with insertion_sort
 
 TODO: Provide an output from running the final version of your program
 
-#### Third output from running the `listsorting` program merge_sort
+#### Third output from running the `listsorting` program with merge_sort
 
 TODO: Provide an output from running the final version of your program
 
-#### Fourth output from running the `listsorting` program quick_sort
+#### Fourth output from running the `listsorting` program with quick_sort
 
 TODO: Provide an output from running the final version of your program
 
-#### Fifth output from running the `listsorting` program tim_sort
+#### Fifth output from running the `listsorting` program with tim_sort
 
 TODO: Provide an output from running the final version of your program
 
